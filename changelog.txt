@@ -1,0 +1,12 @@
+*Merged latest 4.9.234 linux tag
+*Fixed possible UAF when Freeing buffer
+*WiFi Fixed portential overflow on P2P code
+*Scheed core fixed arm32 allmodconfig build-brack 
+*Input Added safety guards To input set keycode 
+*USB core fixed free while in use bug in the USB S-Glibrary
+*Merged latest Kud project & CAF kernel changes
+*Merged latest android-4.9-q-release source changes
+Etc..........
+
+
+#Stable release
