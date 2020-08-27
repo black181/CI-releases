@@ -8,5 +8,4 @@
 *Merged latest android-4.9-q-release source changes
 Etc..........
 
-
 #Stable release
